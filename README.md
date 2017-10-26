@@ -5,7 +5,7 @@ Conway's Game of Life CUDA实现
 
 把lib文件夹中的文件glut32.lib和glut64.lib放在CUDA安装目录\lib\Win32文件夹中
 
-把common文件夹中的所有.h文件及子目录下文件复制到CUDA安装目录\common文件夹中
+把common文件夹中的所有.h文件及子目录下文件放在CUDA安装目录\common文件夹中
 
 > 相关文件来自《GPU高性能编程-CUDA实战（CUDA By Example）》
 
